@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Artifacts (large binary files)
+artifacts/*.pkl
+artifacts/*.joblib
+artifacts/*.csv
+
+# MLflow runs
+notebooks/mlruns/
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/C:/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
