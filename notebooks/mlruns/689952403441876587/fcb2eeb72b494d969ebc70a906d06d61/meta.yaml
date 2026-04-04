@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Sherul Fernando/Documents/GDSE/Apex_ML_Final_Project/notebooks/mlruns/689952403441876587/fcb2eeb72b494d969ebc70a906d06d61/artifacts
+end_time: 1775282176171
+entry_point_name: ''
+experiment_id: '689952403441876587'
+lifecycle_stage: active
+run_id: fcb2eeb72b494d969ebc70a906d06d61
+run_name: KMeans_k4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775282172226
+status: 3
+tags: []
+user_id: Sherul Fernando

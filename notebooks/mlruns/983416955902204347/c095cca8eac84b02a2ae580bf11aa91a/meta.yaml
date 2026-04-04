@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Sherul Fernando/Documents/GDSE/Apex_ML_Final_Project/notebooks/mlruns/983416955902204347/c095cca8eac84b02a2ae580bf11aa91a/artifacts
+end_time: 1775281722865
+entry_point_name: ''
+experiment_id: '983416955902204347'
+lifecycle_stage: active
+run_id: c095cca8eac84b02a2ae580bf11aa91a
+run_name: Segment_Classification_Run_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775281698853
+status: 3
+tags: []
+user_id: Sherul Fernando

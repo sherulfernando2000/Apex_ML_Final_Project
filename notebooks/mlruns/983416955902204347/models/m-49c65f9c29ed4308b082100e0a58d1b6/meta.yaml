@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/Sherul Fernando/Documents/GDSE/Apex_ML_Final_Project/notebooks/mlruns/983416955902204347/models/m-49c65f9c29ed4308b082100e0a58d1b6/artifacts
+creation_timestamp: 1775281699096
+experiment_id: '983416955902204347'
+last_updated_timestamp: 1775281722814
+model_id: m-49c65f9c29ed4308b082100e0a58d1b6
+model_type: null
+name: model
+source_run_id: c095cca8eac84b02a2ae580bf11aa91a
+status: 2
+status_message: null

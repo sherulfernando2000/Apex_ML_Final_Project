@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Sherul Fernando/Documents/GDSE/Apex_ML_Final_Project/notebooks/mlruns/788470696647428989/352565c9e6064a1698a297f7f61d1654/artifacts
+end_time: 1775281589157
+entry_point_name: ''
+experiment_id: '788470696647428989'
+lifecycle_stage: active
+run_id: 352565c9e6064a1698a297f7f61d1654
+run_name: SGD_Regression_Run_5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775281557578
+status: 3
+tags: []
+user_id: Sherul Fernando
